@@ -1,0 +1,14 @@
+{
+	"category" : "JSClassFinder-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"sPath" ],
+	"name" : "JSCStreamReaderTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

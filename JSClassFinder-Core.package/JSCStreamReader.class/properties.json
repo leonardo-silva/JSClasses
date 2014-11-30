@@ -1,0 +1,18 @@
+{
+	"category" : "JSClassFinder-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"jsClasses",
+		"currentSystemName",
+		"currentSystemPath",
+		"jsFunctions",
+		"lastFunctionAdded" ],
+	"name" : "JSCStreamReader",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
